@@ -1,5 +1,5 @@
 # eRetailBy
 
-It's one of my not done educational projects by website layout.
+It's my not done project by website layout.
 
 View eRetailBy deployment.
